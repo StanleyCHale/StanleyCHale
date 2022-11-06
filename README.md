@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @StanleyCHale
-- 👀 I’m interested in Web-development, Games, and VR
-- 🌱 I’m currently learning Unity!
+- 👋 Hi, I’m Stanley Hale
+- 👀 I’m interested in Web-development, Games, and VR, IT, and many more things.
+- 🌱 I’m currently learning Unity and Flutter!
 - 💞️ I’m looking to collaborate on a unity project.
 - 📫 How to reach me... Hmmmm
 
